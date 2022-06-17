@@ -1,0 +1,74 @@
+*{
+    margin: 0%;
+
+
+}
+
+h3{
+    font-family: 'Big Shoulders Display';
+}
+body{
+    background-color: grey;
+}
+main{
+    height: 100vh;
+    width: 40%;
+    display: flex;
+    flex-direction: row;
+    justify-content:center;
+    align-items: center;
+    
+}
+.wrapper{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.orange-section{
+    background-color:hsl(31, 77%, 52%);
+    padding: 2em;
+     width: 50%;
+    
+}
+.orange-section button{
+    margin: 2em;
+    
+}
+.orange-section h3{
+    font-size: ;
+    font-family: ;
+    
+
+}
+
+.orange-section p{
+    font-family: 'Lexend Deca';
+    font-size: 15px;
+}
+.teal-section{
+    background-color:hsl(164, 100%, 22%) ;
+    padding: 2em;
+    width: 50%;
+}
+.teal-section button{
+    
+    margin: 2em;
+
+}
+.teal-section p{
+    font-family: 'Lexend Deca';
+    font-size: 15px;
+}
+.army-section{
+    background-color: hsl(179, 100%, 13%);
+    padding:2em ;
+    width: 50%;
+}
+.army-section button{
+    margin: 2em;
+
+}
+.army-section p{
+    font-family: 'Lexend Deca';
+    font-size: 15px;
+}
